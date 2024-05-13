@@ -3,9 +3,9 @@
 :root{
     --branco: white;
     --cor-de-fundo: #00162E;
-    --fundo-senha: #00244D;
-    --fundo-texto: #001E40;
-    --borda: #0075FF;
+    --fundo-senha: #386496;
+    --fundo-texto: #1e1788;
+    --borda: #4099ff;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
@@ -150,3 +150,4 @@ label{
         flex-direction: row;
     }
 }
+
